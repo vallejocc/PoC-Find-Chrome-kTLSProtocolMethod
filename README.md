@@ -14,6 +14,7 @@ I recommend to read the following article about downloading symbols with the API
 
 https://gregsplaceontheweb.wordpress.com/2015/08/15/how-to-download-windows-image-files-from-the-microsoft-symbol-server-using-c-and-dbghelp/
 
+This PoC works for 64 bits, for 32 bits processes it is necesary to adapt it a bit.
 
 
 
